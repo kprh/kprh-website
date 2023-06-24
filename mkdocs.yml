@@ -1,3 +1,15 @@
-site_name: My Docs
+site_name: Kinderphysio Rita Hensler
 theme:
   name: material
+  language: de
+  palette:
+    primary: deep orange
+  features:
+    - navigation.footer
+copyright: Copyright &copy; 2023 Rita Hensler
+extra:
+  social:
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:rita.hensler@physio-hin.ch
+      name: E-Mail an Rita Hensler
+plugins: []
