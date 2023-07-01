@@ -4,6 +4,7 @@ theme:
   language: de
   palette:
     primary: deep orange
+  logo: assets/logo_white.png
   features:
     - navigation.footer
 copyright: Copyright &copy; 2023 Rita Hensler
