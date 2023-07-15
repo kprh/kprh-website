@@ -1,23 +1,15 @@
 ---
 hide:
   - toc
+  - footer
 ---
 
 
-# Welcome to MkDocs
+# Herzlich willkommen
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Mehr als 15 Jahre arbeitete ich in Schulen mit körper- und mehrfachbehinderten Kindern und Jugendlichen. Nun freue ich mich auf die Arbeit als selbständige Kinderphysiotherapeutin. 
 
-## Commands
+Rita Hensler<br>
+Dipl. Physiotherapeutin für Säuglinge, Kinder und Jugendliche
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Anfragen für einen Termin nehme ich gerne [telefonisch oder per Mail](kontakt.md) entgegen.  

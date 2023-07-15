@@ -4,10 +4,20 @@ theme:
   language: de
   palette:
     primary: deep orange
+    accent: deep orange
   logo: assets/logo_white.png
   features:
     - navigation.footer
 copyright: Copyright &copy; 2023 Rita Hensler
+plugins: [] ## Keine Suche
 extra:
   generator: false
-plugins: []
+extra_css:
+  - stylesheets/extra.css
+markdown_extensions:
+  - tables
+nav:
+  - 'index.md'
+  - 'kinderphysiotherapie.md'
+  - 'ueber_mich.md'
+  - 'kontakt.md'
