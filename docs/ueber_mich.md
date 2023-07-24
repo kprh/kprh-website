@@ -7,11 +7,10 @@ hide:
 
 # Über mich 
 
-Rita Hensler 
-Dipl. Physiotherapie FH
-Für Säuglinge, Kinder und Jugendliche
+Rita Hensler<br>
+Dipl. Physiotherapie FH für Säuglinge, Kinder und Jugendliche
 
-Mir sind die ganzheitliche Behandlung und die gegenseitige Wertschätzung sehr wichtig. Gerne gehe ich auf die individuellen Bedürfnisse der Kinder und Familien ein. Gemeinsam suche ich Lösungen, welche im Alltag umsetzbar sind.
+Mir sind die ganzheitliche Behandlung und die gegenseitige Wertschätzung sehr wichtig. Gerne gehe ich auf die individuellen Bedürfnisse der Kinder und Familien ein. Gemeinsam suche ich nach Lösungen, welche im Alltag umsetzbar sind.
 
 ## Ausbildung, Beruflicher Werdegang
 
@@ -46,7 +45,6 @@ Mir sind die ganzheitliche Behandlung und die gegenseitige Wertschätzung sehr w
 ## Mitgliedschaften 
 
 [Physioswiss](https://www.physioswiss.ch)<br>
-[Physiotherapia paediatrica](https://www.physiopaed.ch)<br>
-Qualitätszirkel
-(Mitglied Verein Autismus deutche Schweiz)
-
+[Physiopaed](https://www.physiopaed.ch)<br>
+Kinderbobath-Qualitätszirkel<br>
+[Autismus Deutsche Schweiz](https://www.autismus.ch/)

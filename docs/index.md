@@ -7,7 +7,7 @@ hide:
 
 # Herzlich willkommen
 
-Mehr als 15 Jahre arbeitete ich in Schulen mit körper- und mehrfachbehinderten Kindern und Jugendlichen. Nun freue ich mich auf die Arbeit als selbständige Kinderphysiotherapeutin. 
+Mehr als 15 Jahre arbeitete ich in Schulen mit körper- und mehrfachbehinderten Kindern und Jugendlichen. Gerne begrüsse ich ihr Kind und Sie in der Praxis.
 
 Rita Hensler<br>
 Dipl. Physiotherapeutin für Säuglinge, Kinder und Jugendliche

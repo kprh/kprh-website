@@ -4,13 +4,20 @@
 
 /* Page header font size like H2 */
 @media screen and (min-width: 76.1876em) {
-.md-header {
-	font-size: 0.8rem;
+	.md-header {
+		font-size: 0.8rem;
+	}
+	.md-header__title {
+		font-size: 1.5625em;
+	}
+	.md-header__topic:first-child {
+		font-weight: 400;
+	}
 }
-.md-header__title {
-	font-size: 1.5625em;
-}
-.md-header__topic:first-child {
-	font-weight: 400;
-}
+
+/* Try to rotect email from spam
+   https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/
+*/
+span.blockspam {
+  display: none;
 }
