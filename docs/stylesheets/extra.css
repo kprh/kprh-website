@@ -15,6 +15,13 @@
 	}
 }
 
+.md-typeset__table {
+	display: block;
+}
+.md-typeset table:not([class]) {
+	display: table;
+}
+
 /* Try to rotect email from spam
    https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/
 */

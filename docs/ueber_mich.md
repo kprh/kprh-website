@@ -28,15 +28,15 @@ Mir sind die ganzheitliche Behandlung und die gegenseitige Wertschätzung sehr w
 |  | Weiterbildung |
 | -- | -- |
 | 2019 – 2023 | Verschiedene Seminare zum Thema Autismus |
-| 2022 / 2023 | Viszerofasciale Ostheopathie  |
-| 2021 / 2022 | Craniosacrale Ostheopathie  |
-| 2019 / 2020 | Manuelle osteopathische Therapie für Kinder  |
+| 2022 - 2023 | Viszerofasciale Ostheopathie  |
+| 2021 - 2022 | Craniosacrale Ostheopathie  |
+| 2019 - 2020 | Manuelle osteopathische Therapie für Kinder  |
 | 2017 | Sensorische Integration – Aufbaukurs Modul 4, Kinder mit Mehrfachdiagnosen  |
 | 2016 | Gebärden nach Anita Portmann  |
 | 2015 | Galileo, Workshop Vibrationstraining in der Pädiatrie  |
 | 2014 | Gehen verstehen, Grund- und Aufbaukurs in der Pädiatrie  |
-| 2012 / 2013 | Sensorische Integration, Grundkurs |
-| 2008 / 2009 |  Kinderbobathkurs, Lebenswege Berlin  |
+| 2012 - 2013 | Sensorische Integration, Grundkurs |
+| 2008 - 2009 |  Kinderbobathkurs, Lebenswege Berlin  |
 | 2008 | Kinästhetics Grundkurs  |
 | 2008 | Ergonomie, Sitzen und Rollstuhlversorgung unter der Leitung von Bengt Engström |
 | 2008 | GMFM (Gross Motor Function Measure) |
