@@ -1,0 +1,30 @@
+.md-header__button.md-logo img {
+	height: 2.2rem;
+}
+
+/* Page header font size like H2 */
+@media screen and (min-width: 76.1876em) {
+	.md-header {
+		font-size: 0.8rem;
+	}
+	.md-header__title {
+		font-size: 1.5625em;
+	}
+	.md-header__topic:first-child {
+		font-weight: 400;
+	}
+}
+
+.md-typeset__table {
+	display: block;
+}
+.md-typeset table:not([class]) {
+	display: table;
+}
+
+/* Try to rotect email from spam
+   https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/
+*/
+span.blockspam {
+  display: none;
+}
