@@ -1,4 +1,18 @@
+# Project information
 site_name: Kinderphysio Rita Hensler
+site_url: https://kinderphysio-hensler.ch
+site_author: Rita Hensler
+site_description: >-
+  Die Physiotherapie in Winterthur für die Behandlung von Frühgeborenen, Säuglingen, Kindern und Jugendlichen mit sensomotorischen Auffälligkeiten, mit Entwicklungsverzögerungen und komplexen Mehrfachbehinderungen
+
+# Repository
+repo_name: kprh/kprh-website
+repo_url: https://github.com/kprh/kprh-website
+
+# Copyright
+copyright: Copyright &copy; 2023 Rita Hensler
+
+# Configuration
 theme:
   name: material
   language: de
@@ -9,14 +23,15 @@ theme:
   favicon: assets/favicon.png
   features:
     - navigation.footer
-copyright: Copyright &copy; 2023 Rita Hensler
+extra_css:
+  - stylesheets/extra.css
 plugins: [] ## Keine Suche
 extra:
   generator: false
-extra_css:
-  - stylesheets/extra.css
 markdown_extensions:
   - tables
+
+# Page tree
 nav:
   - 'index.md'
   - 'kinderphysiotherapie.md'
