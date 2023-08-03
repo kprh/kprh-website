@@ -25,11 +25,25 @@
 	}
 }
 
+/* Table styles */
 .md-typeset__table {
 	display: block;
 }
 .md-typeset table:not([class]) {
 	display: table;
+	font-size: initial;
+	border-top: none;
+}
+.md-typeset table:not([class]) thead {
+	display: none;
+}
+.md-typeset table:not([class]) tr td:nth-child(1) {
+	width: 131px;
+	min-width: 131px;
+	max-width: 131px;
+}
+.md-typeset table:not([class]) tr td:nth-child(2) {
+	padding-left: 0;
 }
 
 /* 
