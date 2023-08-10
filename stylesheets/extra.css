@@ -29,6 +29,23 @@
 	display: none;
 }
 
+/* Hero image */
+.md-typeset img.kprh_hero {
+  margin-top: -65px;
+  height: 300px;
+  object-fit: cover;
+  width: calc(100% + 40px);
+  max-width: calc(100% + 40px);
+  margin-left: -20px;
+  margin-right: -20px;
+}
+.md-typeset h1.kprh_hero_title {
+	font-size: 2.4em;
+    font-weight: bold;
+	color: white;
+	margin-top: -2.2em;
+}
+
 /* Logo as background image of the content */
 h1:before {
 	content: "";
