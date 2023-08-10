@@ -13,6 +13,9 @@
 	color: var(--md-primary-fg-color);
 }
 /* Line break before Rita */
+.md-nav__title {
+	padding: 0 2.6rem 0 0.6rem;
+}
  @media screen and (max-width: 76.1875em) {
 	.md-nav--primary .md-nav__title {
 		height: 5.8rem;
