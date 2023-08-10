@@ -12,6 +12,15 @@
 	background-color: var(--md-primary-bg-color);
 	color: var(--md-primary-fg-color);
 }
+/* Line break before Rita */
+ @media screen and (max-width: 76.1875em) {
+	.md-nav--primary .md-nav__title {
+		height: 5.8rem;
+		line-height: 1rem;
+		padding: 3rem 1.8rem .2rem .8rem;
+		white-space: normal;
+	}
+}
 
 /* Logo as background image of the content */
 h1:before {
