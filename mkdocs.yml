@@ -16,7 +16,7 @@ theme:
     primary: deep orange
     accent: deep orange
   font: false ## Font not from gstatic
-  logo: assets/logo_white.png
+  logo: assets/logo_orange.svg
   favicon: assets/favicon.png
   features:
     - navigation.footer
