@@ -7,29 +7,68 @@
   --md-text-font: "Roboto"; 
 }
 
-/* Logo larger than regular */
-.md-header__button.md-logo img {
-	height: 2.2rem;
+/* Header orange on white */
+.md-header {
+	background-color: var(--md-primary-bg-color);
+	color: var(--md-primary-fg-color);
+}
+/* Line break before Rita */
+.md-nav__title {
+	padding: 0 2.6rem 0 0.6rem;
+}
+ @media screen and (max-width: 76.1875em) {
+	.md-nav--primary .md-nav__title {
+		height: 5.8rem;
+		line-height: 1rem;
+		padding: 3rem 1.8rem .2rem .8rem;
+		white-space: normal;
+	}
+}
+/* Do not show submenue in mobile view */
+.md-nav__icon.md-icon {
+	display: none;
 }
 
-/* Page header font size like H2 */
-@media screen and (min-width: 76.1876em) {
-	.md-header {
-		font-size: 0.8rem;
-	}
-	.md-header__title {
-		font-size: 1.5625em;
-	}
-	.md-header__topic:first-child {
-		font-weight: 400;
-	}
+/* Logo as background image of the content */
+h1:before {
+	content: "";
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	bottom: 10vh;
+	right: 5%;
+	z-index: -1;
+	opacity: 0.3;
+	background-image: url("../assets/logo_orange.svg");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+h1#uber-mich:before {
+	bottom: 55%;
+}
+.md-typeset table:not([class]) {
+	background-color: initial;
 }
 
+/* Table styles */
 .md-typeset__table {
 	display: block;
 }
 .md-typeset table:not([class]) {
 	display: table;
+	font-size: initial;
+	border-top: none;
+}
+.md-typeset table:not([class]) thead {
+	display: none;
+}
+.md-typeset table:not([class]) tr td:nth-child(1) {
+	width: 131px;
+	min-width: 131px;
+	max-width: 131px;
+}
+.md-typeset table:not([class]) tr td:nth-child(2) {
+	padding-left: 0;
 }
 
 /* 
