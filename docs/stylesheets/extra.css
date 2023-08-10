@@ -21,6 +21,10 @@
 		white-space: normal;
 	}
 }
+/* Do not show submenue in mobile view */
+.md-nav__icon.md-icon {
+	display: none;
+}
 
 /* Logo as background image of the content */
 h1:before {
