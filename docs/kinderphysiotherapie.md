@@ -4,8 +4,9 @@ hide:
   - footer
 ---
 
+<img class="kprh_hero"src="/assets/raum.jpeg">
 
-# Kinderphysiotherapie 
+# Kinderphysiotherapie {: .kprh_hero_title}
 
 ## Angebot 
 

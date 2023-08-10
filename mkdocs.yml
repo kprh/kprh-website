@@ -28,6 +28,7 @@ extra:
   generator: false
 markdown_extensions:
   - tables
+  - attr_list
 
 # Page tree
 nav:
