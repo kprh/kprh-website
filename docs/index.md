@@ -4,8 +4,9 @@ hide:
   - footer
 ---
 
+<img class="kprh_hero kprh_hero_behandlung" src="../assets/behandlung.jpg">
 
-# Herzlich willkommen
+# Herzlich willkommen {: .kprh_hero_title}
 
 Mehr als 15 Jahre arbeitete ich in Schulen mit körper- und mehrfachbehinderten Kindern und Jugendlichen. Gerne begrüsse ich ihr Kind und Sie in der Praxis.
 

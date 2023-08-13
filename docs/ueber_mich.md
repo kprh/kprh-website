@@ -4,8 +4,9 @@ hide:
   - footer
 ---
 
+<img class="kprh_hero kprh_hero_rita" src="../assets/rita.jpg">
 
-# Über mich 
+# Über mich {: .kprh_hero_title}
 
 Rita Hensler<br>
 Dipl. Physiotherapie FH für Säuglinge, Kinder und Jugendliche

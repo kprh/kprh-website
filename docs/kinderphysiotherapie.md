@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-<img class="kprh_hero"src="../assets/raum.jpeg">
+<img class="kprh_hero kprh_hero_raum"src="../assets/raum.jpg">
 
 # Kinderphysiotherapie {: .kprh_hero_title}
 

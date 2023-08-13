@@ -45,6 +45,15 @@
 	color: white;
 	margin-top: -2.2em;
 }
+.kprh_hero_behandlung {
+	object-position: 50% 39%;
+}
+.kprh_hero_raum {
+	object-position: 50% 43%;
+}
+.kprh_hero_rita {
+	object-position: 50% 42%;
+}
 
 /* Logo as background image of the content */
 h1:before {
