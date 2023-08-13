@@ -8,9 +8,8 @@ hide:
 
 # Herzlich willkommen {: .kprh_hero_title}
 
-Mehr als 15 Jahre arbeitete ich in Schulen mit körper- und mehrfachbehinderten Kindern und Jugendlichen. Gerne begrüsse ich ihr Kind und Sie in der Praxis.
+Herzlich willkommen in der Kinderphysiotherapie Rita Hensler.
 
-Rita Hensler<br>
-Dipl. Physiotherapeutin für Säuglinge, Kinder und Jugendliche
+Seit mehr als 15 Jahre arbeitete ich als Physiotherapeutin mit Kindern und Jugendlichen. Gerne begrüsse ich ihr Kind und Sie in der Praxis.
 
 Anfragen für einen Termin nehme ich gerne [telefonisch oder per Mail](kontakt.md) entgegen.  

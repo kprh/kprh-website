@@ -70,7 +70,7 @@ h1:before {
 	background-repeat: no-repeat;
 }
 h1#uber-mich:before {
-	bottom: 55%;
+	bottom: 34%;
 }
 .md-typeset table:not([class]) {
 	background-color: initial;
@@ -83,7 +83,7 @@ h1#uber-mich:before {
 .md-typeset table:not([class]) {
 	display: table;
 	font-size: initial;
-	border-top: none;
+	border: none;
 }
 .md-typeset table:not([class]) thead {
 	display: none;
@@ -93,9 +93,13 @@ h1#uber-mich:before {
 	min-width: 131px;
 	max-width: 131px;
 }
-.md-typeset table:not([class]) tr td:nth-child(2) {
-	padding-left: 0;
+.md-typeset table:not([class]) td {
+	padding: 0;
+	border: none;
 }
+.md-typeset table:not([class]) tbody tr:hover {
+  background: none;
+  box-shadow: none;
 
 /* 
   Try to rotect email from spam
