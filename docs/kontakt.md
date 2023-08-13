@@ -6,8 +6,8 @@ hide:
 
 # Kontakt
 
-Kinderphysioterapie Rita Hensler<br>
-[Trottenwiesenstrasse 2](https://duckduckgo.com/?t=ffab&q=google+maps+Trottenwiesenstrasse+2+8404+Winterthur&atb=v342-1&ia=web&iaxm=maps)<br>
+Kinderphysiotherapie Rita Hensler<br>
+[Trottenwiesenstrasse 2](https://goo.gl/maps/jtMMF69RpJs3jQjHA)<br>
 8404 Winterthur<br>
 
 Telefon: 077 435 58 82<br>
