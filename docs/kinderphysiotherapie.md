@@ -24,7 +24,7 @@ Abmeldungen müssen bis spätestens 24 Stunden vor dem Termin erfolgen, ansonste
 
 ## Praxisgemeinschaft
 
-In der Praxis erhalten sie weitere Angebote: 
+In der Praxis erhalten Sie weitere Angebote: 
 
 [Kinderphysiotherapie bei Barbara Graf](http://kinder-physiotherapie.ch)<br>
 [Craniosacraltherapie bei Barbara Graf](http://craniosacral-winterthur.ch)<br>
