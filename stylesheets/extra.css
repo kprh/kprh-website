@@ -100,6 +100,7 @@ h1#uber-mich:before {
 .md-typeset table:not([class]) tbody tr:hover {
   background: none;
   box-shadow: none;
+}
 
 /* 
   Try to rotect email from spam
