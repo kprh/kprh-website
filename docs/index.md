@@ -4,7 +4,7 @@ hide:
   - footer
 ---
 
-<img class="kprh_hero kprh_hero_behandlung" src="../assets/behandlung.jpg">
+<img class="kprh_hero kprh_hero_behandlung" src="assets/behandlung.jpg">
 
 # Herzlich willkommen {: .kprh_hero_title}
 
