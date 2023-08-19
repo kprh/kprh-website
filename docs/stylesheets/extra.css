@@ -44,7 +44,7 @@
 .md-copyright {
   width: 100%;
 }
-@media (min-width: 361px) {
+@media (min-width: 421px) {
 	.md-copyright__highlight {
 		display: flex;
 	}
