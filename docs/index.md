@@ -9,6 +9,6 @@ hide:
 
 Herzlich willkommen in der Kinderphysiotherapie Rita Hensler.
 
-Seit mehr als 15 Jahre arbeitete ich als Physiotherapeutin mit Kindern und Jugendlichen.::q Gerne begrüsse ich ihr Kind und Sie in der Praxis.
+Seit mehr als 15 Jahren arbeitete ich als Kinderphysiotherapeutin. Ich betreute Kinder vom Säugling bis zum Jugendlichen.
 
-Anfragen für einen Termin nehme ich gerne [telefonisch oder per Mail](kontakt.md) entgegen.  
+Ich freue mich, Ihr Kind kennenzulernen und Sie in der Praxis begrüssen zu dürfen. Anfragen für einen Termin nehme ich gerne [telefonisch oder per Mail](kontakt.md) entgegen.  
