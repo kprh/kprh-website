@@ -16,7 +16,7 @@ theme:
     primary: deep orange
     accent: deep orange
   font: false ## Font not from gstatic
-  logo: assets/logo_orange.svg
+  logo: assets/logo_kinderphysio.svg
   favicon: assets/favicon.png
   features:
     - navigation.footer
