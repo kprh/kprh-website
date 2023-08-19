@@ -6,7 +6,8 @@ site_description: >-
   Die Physiotherapie in Winterthur für die Behandlung von Säuglingen, Kindern und Jugendlichen
 
 # Copyright
-copyright: Copyright &copy; 2023 Kinderphysiotherapie Rita Hensler
+copyright: >
+  Copyright &copy; 2023 Kinderphysiotherapie Rita Hensler<div class="kprh_legal"><a href="/impressum">Impressum</a></div>
 
 # Configuration
 theme:
