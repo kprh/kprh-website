@@ -1,7 +1,6 @@
 ---
 hide:
   - toc
-  - footer
 ---
 
 <img class="kprh_hero kprh_hero_behandlung" src="assets/behandlung.jpg">
