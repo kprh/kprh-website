@@ -19,21 +19,22 @@
 .md-header__title {
 	display: none;
 }
+/* Remove navigation title on lagre screens */ 
+@media screen and (min-width: 76.25em) {
+	.md-nav--primary .md-nav__title {
+		display: none;
+	}
+}
+
 /* Logo mobile */
 .md-nav--primary .md-nav__title[for="__drawer"] {
 	background-color: var(--md-primary-bg-color);
+	height: 5rem;
 }
 .md-nav__title .md-nav__button.md-logo img {
 	height: auto
 }
- @media screen and (max-width: 76.1875em) {
-	.md-nav--primary .md-nav__title {
-		height: 5rem;
-		line-height: 1rem;
-		padding: 3rem 1.8rem .2rem .8rem;
-		white-space: normal;
-	}
-}
+
 /* Do not show submenue in mobile view */
 .md-nav__icon.md-icon {
 	display: none;
@@ -76,6 +77,9 @@
 }
 .kprh_hero_rita {
 	object-position: 50% 42%;
+}
+.kprh_hero_haus {
+	object-position: 50% 44%;
 }
 
 /* Logo as background image of the content */
