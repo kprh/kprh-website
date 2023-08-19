@@ -19,6 +19,13 @@
 .md-header__title {
 	display: none;
 }
+/* Remove navigation title on lagre screens */ 
+@media screen and (min-width: 76.25em) {
+	.md-nav--primary .md-nav__title {
+		display: none;
+	}
+}
+
 /* Logo mobile */
 .md-nav--primary .md-nav__title[for="__drawer"] {
 	background-color: var(--md-primary-bg-color);
