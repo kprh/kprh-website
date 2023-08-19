@@ -43,11 +43,13 @@
 .md-copyright {
   width: 100%;
 }
-.md-copyright__highlight {
-	display: flex;
-}
-.kprh_legal {
-	margin-left: auto;
+@media (min-width: 361px) {
+	.md-copyright__highlight {
+		display: flex;
+	}
+	.kprh_legal {
+		margin-left: auto;
+	}
 }
 
 /* Hero image */
