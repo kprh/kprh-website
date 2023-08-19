@@ -7,7 +7,7 @@ site_description: >-
 
 # Copyright
 copyright: >
-  Copyright &copy; 2023 Kinderphysiotherapie Rita Hensler<div class="kprh_legal"><a href="/impressum">Impressum</a></div>
+  Copyright &copy; 2023 Kinderphysiotherapie Rita Hensler<div class="kprh_legal"><a href="../impressum">Impressum</a></div>
 
 # Configuration
 theme:
