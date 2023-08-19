@@ -9,11 +9,11 @@ hide:
 
 ## Angebot 
 
-In der Praxis arbeite ich mit Frühgeborenen, Säuglingen, Kindern und Jugendlichen mit sensomotorischen Auffälligkeiten, mit Entwicklungsverzögerungen und komplexen Mehrfachbehinderungen. Ich behandle Asymmetrien und Haltungsauffälligkeiten, orthopädische Probleme (Klumpfuss, Trichterbrust, Skoliose, etc.), Schmerzen und Verletzungen am Bewegungsapparat. 
+In der Praxis arbeite ich mit Frühgeborenen, Säuglingen, Kindern und Jugendlichen mit sensomotorischen Auffälligkeiten, mit Entwicklungsverzögerungen und komplexen Mehrfachbehinderungen. Ich behandle Asymmetrien und Haltungsauffälligkeiten, orthopädische Probleme, Schmerzen und Verletzungen am Bewegungsapparat. 
 
 Ich bin spezialisiert auf Abklärungen und Anpassungen von Hilfsmitteln in Zusammenarbeit mit Orthopädietechnikern. 
   
-Falls vom Arzt verordnet, behandle ich gerne auch bei Ihnen zuhause.
+Falls vom Arzt verordnet, behandle ich Ihr Kind gerne auch bei Ihnen zuhause.
 
 ## Kostenübernahme
 
