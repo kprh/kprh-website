@@ -3,7 +3,9 @@ hide:
   - toc
 ---
 
-# Kontakt
+<img class="kprh_hero kprh_hero_haus" src="../assets/haus.jpg">
+
+# Kontakt {: .kprh_hero_title}
 
 Kinderphysiotherapie Rita Hensler<br>
 [Trottenwiesenstrasse 2](https://goo.gl/maps/jtMMF69RpJs3jQjHA)<br>

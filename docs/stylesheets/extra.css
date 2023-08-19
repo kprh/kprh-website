@@ -77,6 +77,9 @@
 .kprh_hero_rita {
 	object-position: 50% 42%;
 }
+.kprh_hero_haus {
+	object-position: 50% 44%;
+}
 
 /* Logo as background image of the content */
 h1:before {
