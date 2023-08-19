@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-<img class="kprh_hero kprh_hero_rita" src="../assets/rita.jpg">
+<img class="kprh_hero kprh_hero_rita" src="../assets/rita.jpg" alt="">
 
 # Über mich {: .kprh_hero_title}
 

@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-<img class="kprh_hero kprh_hero_behandlung" src="assets/behandlung.jpg">
+<img class="kprh_hero kprh_hero_behandlung" src="assets/behandlung.jpg" alt="">
 
 # Herzlich willkommen {: .kprh_hero_title}
 

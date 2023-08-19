@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-<img class="kprh_hero kprh_hero_raum"src="../assets/raum.jpg">
+<img class="kprh_hero kprh_hero_raum"src="../assets/raum.jpg" alt="">
 
 # Kinderphysiotherapie {: .kprh_hero_title}
 
