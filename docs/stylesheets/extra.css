@@ -55,7 +55,7 @@
 
 /* Hero image */
 .md-typeset img.kprh_hero {
-  margin-top: -65px;
+  margin-top: -72px;
   height: 300px;
   object-fit: cover;
   width: calc(100% + 40px);
@@ -70,16 +70,16 @@
 	margin-top: -2.2em;
 }
 .kprh_hero_behandlung {
-	object-position: 50% 39%;
+	object-position: 50% 38%;
 }
 .kprh_hero_raum {
-	object-position: 50% 43%;
-}
-.kprh_hero_rita {
 	object-position: 50% 42%;
 }
+.kprh_hero_rita {
+	object-position: 50% 41%;
+}
 .kprh_hero_haus {
-	object-position: 50% 44%;
+	object-position: 50% 43%;
 }
 
 /* Logo as background image of the content */
