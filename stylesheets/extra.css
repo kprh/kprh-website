@@ -102,6 +102,9 @@ h1:before {
 h1#uber-mich:before {
 	bottom: 34%;
 }
+.md-content__inner:has(#herzlich-willkommen) {
+	margin-bottom: 330px;
+}
 .md-typeset table:not([class]) {
 	background-color: initial;
 }
