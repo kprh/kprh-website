@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-<img class="kprh_hero kprh_hero_haus" src="../assets/haus.jpg" alt="">
+<img class="kprh_hero kprh_hero_haus" src="../assets/haus.jpg" alt="In diesem Gebäude ist die Kinderphysiotherapie">
 
 # Kontakt {: .kprh_hero_title}
 

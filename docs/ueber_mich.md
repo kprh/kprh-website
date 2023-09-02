@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-<img class="kprh_hero kprh_hero_rita" src="../assets/rita.jpg" alt="">
+<img class="kprh_hero kprh_hero_rita" src="../assets/rita.jpg" alt="Portrait von Rita Hensler">
 
 # Über mich {: .kprh_hero_title}
 
