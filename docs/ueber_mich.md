@@ -14,6 +14,9 @@ Mir sind die ganzheitliche Behandlung und die gegenseitige Wertschätzung sehr w
 
 ## Ausbildung, Beruflicher Werdegang
 
+Werdegang  
+{: .kprh_table_plain .kprh_table_cv}
+
 |             |    |
 | ----------- | -- |
 | Ab 2023     | Selbständige Tätigkeit als Kinderpyhsiotherapeutin in Winterthur |
@@ -24,6 +27,9 @@ Mir sind die ganzheitliche Behandlung und die gegenseitige Wertschätzung sehr w
 | 2005        | Diplom als Physiotherapeutin |
 
 ## Weiterbildungen 
+
+Weiterbildungen  
+{: .kprh_table_plain .kprh_table_cv}
 
 |             |    |
 | ----------- | -- |
