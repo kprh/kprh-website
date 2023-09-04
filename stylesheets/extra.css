@@ -44,12 +44,13 @@
 .md-copyright {
   width: 100%;
 }
-@media (min-width: 421px) {
-	.md-copyright__highlight {
+@media (min-width: 576px) {
+	.kprh_legals {
 		display: flex;
+		gap: 10px;
 	}
-	.kprh_legal {
-		margin-left: auto;
+	.kprh_legals :first-child {
+		margin-right: auto;
 	}
 }
 
