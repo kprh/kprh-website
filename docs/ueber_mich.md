@@ -33,6 +33,8 @@ Weiterbildungen
 
 |             |    |
 | ----------- | -- |
+| 2023        | Klumpfussbehandlung - Das Berliner Konzept |
+| 2023        | Aufbaukurs Craniosacraltherapie |
 | 2019 - 2023 | Verschiedene Seminare zum Thema Autismus |
 | 2022 - 2023 | Viszerofasciale Ostheopathie |
 | 2021 - 2022 | Craniosacrale Ostheopathie |
