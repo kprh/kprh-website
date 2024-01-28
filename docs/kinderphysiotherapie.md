@@ -37,6 +37,5 @@ In der Praxis erhalten Sie weitere Angebote:
 [Kinderphysiotherapie bei Barbara Graf](http://kinder-physiotherapie.ch)<br>
 [Craniosacraltherapie bei Barbara Graf](http://craniosacral-winterthur.ch)<br>
 [Ernährungsberatung bei Susanne Sigrist](https://ernaehrungsberatungwinterthur.ch/)<br>
-[Coaching mit Doris Zappini](https://www.doris-zappini.ch/)
 
 
