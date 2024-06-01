@@ -10,7 +10,7 @@ hide:
 Rita Hensler<br>
 Dipl. Physiotherapie FH für Säuglinge, Kinder und Jugendliche
 
-Seit mehr als 15 Jahren arbeitete ich als Kinderphysiotherapeutin. Mir sind die ganzheitliche Behandlung und die gegenseitige Wertschätzung sehr wichtig. Gerne gehe ich auf die individuellen Bedürfnisse der Kinder und deren Familien ein. Gemeinsam suche ich nach Lösungen, welche im Alltag umsetzbar sind. Als Mutter von drei Kindern kenne ich die Herausforderungen, welche der Familienalltag mit sich bringt.
+Mir sind die ganzheitliche Behandlung und die gegenseitige Wertschätzung sehr wichtig. Gerne gehe ich auf die individuellen Bedürfnisse der Kinder und deren Familien ein. Gemeinsam suche ich nach Lösungen, welche im Alltag umsetzbar sind. Als Mutter von drei Kindern kenne ich die Herausforderungen, welche der Familienalltag mit sich bringt.
 
 ## Ausbildung, Beruflicher Werdegang
 
