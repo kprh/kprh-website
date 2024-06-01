@@ -1,28 +1,147 @@
+/* 
+  Local font instead of gstatic
+  see /fonts/roboto.css
+  https://en.bestfonts.pro/font/roboto
+*/
+:root {
+  --md-text-font: "Roboto"; 
+}
+
+/* Header orange on white */
+.md-header {
+	background-color: var(--md-primary-bg-color);
+	color: var(--md-primary-fg-color);
+}
+/* logo bigger */
 .md-header__button.md-logo img {
-	height: 2.2rem;
+	height: 3rem;
 }
-
-/* Page header font size like H2 */
-@media screen and (min-width: 76.1876em) {
-	.md-header {
-		font-size: 0.8rem;
-	}
-	.md-header__title {
-		font-size: 1.5625em;
-	}
-	.md-header__topic:first-child {
-		font-weight: 400;
+.md-header__title {
+	display: none;
+}
+/* Remove navigation title on lagre screens */ 
+@media screen and (min-width: 76.25em) {
+	.md-nav--primary .md-nav__title {
+		display: none;
 	}
 }
 
-.md-typeset__table {
-	display: block;
+/* Logo mobile */
+.md-nav--primary .md-nav__title[for="__drawer"] {
+	background-color: var(--md-primary-bg-color);
+	height: 5rem;
+}
+.md-nav__title .md-nav__button.md-logo img {
+	height: auto
+}
+
+/* Do not show submenue in mobile view */
+.md-nav__icon.md-icon {
+	display: none;
+}
+
+/* Footer */
+.md-copyright {
+  width: 100%;
+}
+@media (min-width: 576px) {
+	.kprh_legals {
+		display: flex;
+		gap: 10px;
+	}
+	.kprh_legals :first-child {
+		margin-right: auto;
+	}
+}
+
+/* Hero image */
+.md-typeset img.kprh_hero {
+  margin-top: -72px;
+  height: 300px;
+  object-fit: cover;
+  width: calc(100% + 40px);
+  max-width: calc(100% + 40px);
+  margin-left: -20px;
+  margin-right: -20px;
+}
+.md-typeset h1.kprh_hero_title {
+	font-size: 2.4em;
+	font-weight: bold;
+	color: white;
+	margin-top: -2.2em;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.kprh_hero_behandlung {
+	object-position: 50% 38%;
+}
+.kprh_hero_raum {
+	object-position: 50% 42%;
+}
+.kprh_hero_rita {
+	object-position: 50% 41%;
+}
+.kprh_hero_haus {
+	object-position: 50% 43%;
+}
+
+/* Logo as background image of the content */
+h1:before {
+	content: "";
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	bottom: 10vh;
+	right: 5%;
+	z-index: -1;
+	opacity: 0.3;
+	background-image: url("../assets/logo_orange.svg");
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+h1#uber-mich:before {
+	bottom: 34%;
+}
+.md-content__inner:has(#herzlich-willkommen) {
+	margin-bottom: 330px;
 }
 .md-typeset table:not([class]) {
-	display: table;
+	background-color: initial;
 }
 
-/* Try to rotect email from spam
+/* Table styles */
+.kprh_table_plain {
+	/* Only a marker block */
+	display: none;
+}
+.md-typeset .kprh_table_plain + .md-typeset__scrollwrap .md-typeset__table {
+	display: block;
+}
+.md-typeset .kprh_table_plain + .md-typeset__scrollwrap table:not([class]) {
+	display: table;
+	font-size: initial;
+	border: none;
+}
+.md-typeset .kprh_table_plain + .md-typeset__scrollwrap table:not([class]) thead {
+	display: none;
+}
+.md-typeset .kprh_table_plain + .md-typeset__scrollwrap table:not([class]) td {
+	padding: 0;
+	border: none;
+}
+.md-typeset .kprh_table_plain + .md-typeset__scrollwrap table:not([class]) tbody tr:hover {
+  background: none;
+  box-shadow: none;
+}
+.md-typeset .kprh_table_cv + .md-typeset__scrollwrap table:not([class]) tr td:nth-child(1) {
+	width: 131px;
+	min-width: 131px;
+	max-width: 131px;
+}
+
+/* 
+  Try to rotect email from spam
    https://css-tricks.com/how-to-safely-share-your-email-address-on-a-website/
 */
 span.blockspam {
