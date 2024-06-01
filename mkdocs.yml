@@ -31,7 +31,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Herzlich willkommen: 'index.md'
-  - 'kinderphysiotherapie.md'
+  - Kinderphysiotherapie: 'index.md'
   - Über mich: 'ueber_mich.md'
+  - Kostenübernahme: 'kosten.md'
   - 'kontakt.md'
