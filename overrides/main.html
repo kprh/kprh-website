@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+
+{% block site_meta %}
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+  <!-- Page description -->
+  {% if page.meta and page.meta.description %}
+	<meta name="description" content="{{ page.meta.description }}" />
+  {% elif config.site_description %}
+	<meta name="description" content="{{ config.site_description }}" />
+  {% endif %}
+
+  <!-- Page author -->
+  {% if page.meta and page.meta.author %}
+	<meta name="author" content="{{ page.meta.author }}" />
+  {% elif config.site_author %}
+	<meta name="author" content="{{ config.site_author }}" />
+  {% endif %}
+
+  <!-- Canonical -->
+  {% if page.canonical_url %}
+	<link rel="canonical" href="{{ page.canonical_url }}" />
+  {% endif %}
+
+  <!-- Previous page -->
+  {% if page.previous_page %}
+	<link rel="prev" href="{{ page.previous_page.url | url }}" />
+  {% endif %}
+
+  <!-- Next page -->
+  {% if page.next_page %}
+	<link rel="next" href="{{ page.next_page.url | url }}" />
+  {% endif %}
+
+  <!-- RSS feed -->
+  {% if "rss" in config.plugins %}
+	<link
+	  rel="alternate"
+	  type="application/rss+xml"
+	  title="{{ lang.t('rss.created') }}"
+	  href="{{ 'feed_rss_created.xml' | url }}"
+	/>
+	<link
+	  rel="alternate"
+	  type="application/rss+xml"
+	  title="{{ lang.t('rss.updated') }}"
+	  href="{{ 'feed_rss_updated.xml' | url }}"
+	/>
+  {% endif %}
+
+  <!-- Favicon -->
+  <!-- https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs -->
+  <!-- https://favicon.io/favicon-converter/ -->
+  <link rel="icon" href="{{ 'assets/favicon/favicon.ico' | url }}" />
+  <link rel="icon" href="{{ 'assets/logo_orange.svg' | url }}" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="{{ 'assets/favicon/apple-touch-icon.png' | url }}" size="180x180"/>
+  <link rel="icon" href="{{ 'assets/favicon/favicon-32x32.png' | url }}" size="32x32" type="image/png" />
+  <link rel="icon" href="{{ 'assets/favicon/favicon-16x16.png' | url }}" size="16x16" type="image/png" />
+  <link rel="manifest" href="{{ 'assets/site.webmanifest' | url }}" />
+
+  <!-- Generator banner -->
+  <meta
+	name="generator"
+	content="mkdocs-{{ mkdocs_version }}, $md-name$-$md-version$"
+  />
+{% endblock %}

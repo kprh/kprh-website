@@ -18,7 +18,7 @@ theme:
     accent: deep orange
   font: false ## Font not from gstatic
   logo: assets/logo_kinderphysio.svg
-  favicon: assets/logo_orange.svg
+  custom_dir: overrides
 extra_css:
   - stylesheets/extra.css
   - fonts/roboto.css
