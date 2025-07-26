@@ -33,12 +33,15 @@ Weiterbildungen
 
 |             |    |
 | ----------- | -- |
+| 2025        | CAS Entwicklungsneuroligische Therapie Bobath Baby |
+| 2024        | Faszienarbeit in der Manuellen und Osteopathischen Therapie |
+| 2024        | EMR-Zertifikat Craniosacral Therapie |
 | 2023        | Klumpfussbehandlung - Das Berliner Konzept |
 | 2023        | Aufbaukurs Craniosacraltherapie |
-| 2019 - 2023 | Verschiedene Seminare zum Thema Autismus |
+| 2019 - 2025 | Verschiedene Seminare zum Thema Autismus |
 | 2022 - 2023 | Viszerofasciale Ostheopathie |
 | 2021 - 2022 | Craniosacrale Ostheopathie |
-| 2019 - 2020 | Manuelle osteopathische Therapie für Kinder |
+| 2019 - 2024 | Manuelle osteopathische Therapie für Säuglinge und Kinder |
 | 2017        | Sensorische Integration - Aufbaukurs Modul 4, Kinder mit Mehrfachdiagnosen |
 | 2016        | Gebärden nach Anita Portmann |
 | 2015        | Galileo, Workshop Vibrationstraining in der Pädiatrie |
