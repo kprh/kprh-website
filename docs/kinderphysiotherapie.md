@@ -17,18 +17,20 @@ Falls vom Arzt verordnet, behandle ich Ihr Kind gerne auch bei Ihnen zuhause.
 
 ## Kostenübernahme
 
-In der Regel wird die Physiotherapie vom Arzt verordnet. Die Kosten für die Behandlung übernimmt die Krankenkasse (KK) oder die Invalidenversicherung (IV). 
+In der Regel wird die Physiotherapie vom Arzt verordnet. Eine Behandlung dauert in der Regel 45 Minuten. Die Kosten für die Behandlung übernimmt die Krankenkasse (KK) oder die Invalidenversicherung (IV). 
 
-Abmeldungen müssen bis spätestens 24 Stunden vor dem Termin erfolgen, ansonsten muss ich die Behandlungen privat in Rechnung stellen. 
+Abmeldungen müssen bis spätestens 24 Stunden vor dem Termin erfolgen, ansonsten muss die Behandlung privat in Rechnung gestellt werden. 
 
 ### Tarife im Kanton Zürich
 
-| Tarif                                                                     | KK        | IV        |
-| ------------------------------------------------------------------------- | --------- | --------- |
-| Sitzungspauschale allgemeine Physiotherapie                               | CHF 53.28 |           |
-| Sitzungspauschale aufwändige Bewegungstherapie                            | CHF 85.47 | CHF 77.-- | 
-| Zuschlagsposition für Behandlung chronisch behinderter Kinder bis 6 Jahre | CHF 33.30 | CHF 30.-- |
-| Zuschlagposition für Weg- und Zeitentschädigung                           |           | CHF 34.-- |
+| Tarif                                                                         | KK (pro Behandlung) | IV (pro 5 Minuten) |
+| ----------------------------------------------------------------------------- | ------------------: | -----------------: |
+| Allgemeine Physiotherapie                                                     | CHF 53.28           |                    |
+| Aufwändige Bewegungstherapie                                                  | CHF 85.47           | CHF 10.03          | 
+| Zuschlagsposition für die Behandlung chronisch behinderter Kinder bis 6 Jahre | CHF 33.30           |                    |
+| Auswertungs- und Koordinationsaufgaben in Abwesenheit des Patienten           |                     | CHF  9.72          |
+| Besprechung/Beratung in An- oder Abwesenheit des Patienten                    |                     | CHF  9.72          |
+| Zuschlagposition für Weg- und Zeitentschädigung                               | CHF 34.00           | CHF 11.60          |
 
 ## Praxisgemeinschaft
 
