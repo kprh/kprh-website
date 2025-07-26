@@ -33,5 +33,6 @@ markdown_extensions:
 nav:
   - Herzlich willkommen: 'index.md'
   - 'kinderphysiotherapie.md'
+  - Craniosacral Therapie: 'craniosacral_therapie.md'
   - Über mich: 'ueber_mich.md'
   - 'kontakt.md'

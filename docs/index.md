@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-<img class="kprh_hero kprh_hero_behandlung" src="assets/behandlung.jpg" alt="Physiotherapeutische Behandlung von Kinderfüssen">
+<img class="kprh_hero kprh_hero_behandlung" src="assets/behandlung.jpg" alt="Physiotherapeutische Behandlung eines Kindes">
 
 # Herzlich willkommen {: .kprh_hero_title}
 
