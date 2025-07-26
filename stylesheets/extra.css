@@ -76,6 +76,9 @@
 .kprh_hero_behandlung {
 	object-position: 50% 38%;
 }
+.kprh_hero_baby_flasche {
+	object-position: 50% 63%;
+}
 .kprh_hero_raum {
 	object-position: 50% 42%;
 }
@@ -99,6 +102,9 @@ h1:before {
 	background-image: url("../assets/logo_orange.svg");
 	background-size: contain;
 	background-repeat: no-repeat;
+}
+h1#craniosacral-therapie:before {
+	bottom: 31%;
 }
 h1#uber-mich:before {
 	bottom: 34%;
