@@ -40,4 +40,4 @@ Abmeldungen müssen bis spätestens 24 Stunden vor dem Termin erfolgen, ansonste
 
 ## Tarife
 
-Eine Behandlung dauert in der Regel 45 Minuten und kostet CHF 108.00 (CHF 12.00 pro 5 Minuten).
+Eine Behandlung dauert in der Regel eine Stunde und kostet CHF 12.00 pro 5 Minuten.
